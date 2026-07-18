@@ -1,6 +1,3 @@
-
-
-Readme · MD
 # Hi, I'm Shoaib 👋
  
 **Senior Full Stack Engineer — Ruby on Rails · React · AI/LLM Integration**
