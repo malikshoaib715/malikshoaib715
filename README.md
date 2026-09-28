@@ -25,7 +25,7 @@ Currently at **Reliance Automated Verified Leads, LLC (RAVLCO)** (United States,
 |---|---|---|
 | [TagData](https://www.tagdata.co) | AI · Privacy | Built from scratch — personal PII vault with military-grade encryption, RAG pipeline (pgvector + Claude/OpenAI), and SmartShare: a granular consent system with field-level access control, time-bounded sharing, and immutable audit logs |
 | [Danube](https://danube.sa) | eCommerce at scale | Backend performance engineering on one of Saudi Arabia's largest grocery platforms — 10,000+ SKUs, multi-region, Redis caching, PostgreSQL query optimisation |
-| CareCloud | US Healthcare EHR | Multi-tenant Rails platform serving 40,000+ providers — HIPAA compliant, SOC 2 certified. Built usage-based API billing (DynamoDB/SQS/Lambda), API rate limiting & analytics, and integrated Stripe, Clover & Heartland for revenue cycle management |
+| [CareCloud](https://carecloud.com) | US Healthcare EHR | Multi-tenant Rails platform serving 40,000+ providers — HIPAA compliant, SOC 2 certified. Built usage-based API billing (DynamoDB/SQS/Lambda), API rate limiting & analytics, and integrated Stripe, Clover & Heartland for revenue cycle management |
 | [WOSH](https://www.wosh.be) | On-demand services | Full-stack platform for on-demand laundry in Belgium — Rails + React, Stripe, Sidekiq job pipelines, Twilio SMS, SendGrid, GDPR-compliant data handling for B2B and B2C clients |
 | [RéChic & Shop](https://rechicandshop.com) | Luxury eCommerce | Luxury pre-loved fashion marketplace in Qatar — multi-currency (QAR/EUR/GBP/USD/CHF), consignment pipeline, DHL Express integration, seller dashboard, automated commission calculations · [client shout-out](https://rechicandshop.com/blog-single/69f8db46abdbb00016bb1545) |
  
