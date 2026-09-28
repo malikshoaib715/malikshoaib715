@@ -4,7 +4,7 @@
  
 I build production-grade Rails applications in domains where security, compliance, and data integrity are non-negotiable — healthcare, consent management, legal tech, and AI-powered platforms. 5 years shipping features that handle real PII, real compliance requirements, and real scale.
  
-Currently at **Techwaresoft** (Dubai, remote) — leading backend performance engineering and LLM integrations on a large-scale Rails application.
+Currently at **Reliance Automated Verified Leads, LLC (RAVLCO)** (United States, remote) — leading backend performance engineering and LLM integrations on a large-scale Rails application.
  
 ---
  
